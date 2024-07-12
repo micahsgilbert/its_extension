@@ -28,7 +28,7 @@
       ]
     },
     {
-      "js": ["snowCollapse.js", "snowFormatting.js"],
+      "js": ["snowCollapse.js", "snowFormatting.js", "rainbowSearch.js", "fuzzysort.min.js"],
       "matches": [
         "https://support.ucsd.edu/*",
         "https://snqa.ucsd.edu/*",
